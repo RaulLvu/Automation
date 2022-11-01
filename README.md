@@ -1,5 +1,7 @@
 # Automation Samples
 
+Below are some automation test cases wich I worked, studied  on previous course:
+
 
        describe('eMag.ro', () => {
 
