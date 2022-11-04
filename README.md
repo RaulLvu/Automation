@@ -1,6 +1,6 @@
 # Automation Samples
 
-Below are some automation test cases wich I worked, studied  on previous course:
+Below are some automation test cases which I worked on, and studied in a previous course:
 
 
        describe('eMag.ro', () => {
