@@ -1,6 +1,6 @@
 # Automation Samples
 
-Below are some automation test cases which I worked on, and studied in a previous course:
+Below are some automation test cases which I worked on, and studied in a previous course with the WebDriverIo framework:
 
 
        describe('eMag.ro', () => {
